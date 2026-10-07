@@ -5,7 +5,7 @@ plugins {
 }
 
 
-group = 'com.laioffer'
+group = 'com.zhuonan'
 version = '0.0.1-SNAPSHOT'
 description = 'twitch'
 
